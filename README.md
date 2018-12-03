@@ -1,11 +1,11 @@
 # genetic-algorithm-cesar
 genetic-algorithm-cesar
 
-###Nome: César M. Vargas Benítez
-###Email: cesarbenitez@utfpr.edu.br
-###Pagina Pessoal: paginapessoal.utfpr.edu.br/cesarbenitez
+### Nome: César M. Vargas Benítez
+### Email: cesarbenitez@utfpr.edu.br
+### Pagina Pessoal: paginapessoal.utfpr.edu.br/cesarbenitez
 
-#Schedule 
+# Schedule 
 
 ## Aula 29/11
 
